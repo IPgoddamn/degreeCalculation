@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="degreeCalculation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/degreeCalculation_jar</output-path>
+    <root id="archive" name="degreeCalculation.jar">
+      <element id="module-output" name="degreeCalculation" />
+    </root>
+  </artifact>
+</component>

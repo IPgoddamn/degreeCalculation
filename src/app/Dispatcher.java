@@ -104,7 +104,6 @@ interface FormListener extends EventListener {
 interface StringListener {
 	void sendText(String text);
 }
-
 class FormPanel extends JPanel {
 	private final JLabel firstNumberLabel;
 	private final JLabel commonRatioLabel;
